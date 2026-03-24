@@ -1,5 +1,5 @@
 ## 私わ矢代さんすきじゃないです
-< *それわうそだ*
+ *それわうそだ*
 
 ### 🚀 Estudante de Desenvolvimento de Sistemas no SENAI (がくせいです)
 
