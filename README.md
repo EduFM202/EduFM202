@@ -1,6 +1,6 @@
 ## 私わ矢代さんすきじゃないです
 
-### 🚀 Estudante de Desenvolvimento de Sistemas @ SENAI
+### 🚀 Estudante de Desenvolvimento de Sistemas　no SENAI (がくせいです)
 
 Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Desenvolvimento de Sistemas no SENAI**. Estou focado em construir uma base sólida em lógica de programação, arquitetura de sistemas e desenvolvimento de soluções modernas.
 
@@ -16,7 +16,7 @@ Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Des
   <img src="https://skillicons.dev/icons?i=js,html,git,github,vscode" />
 </p>
 
-> *"A tecnologia move o mundo, mas a curiosidade move o desenvolvedor."*
+> *"おこのみで -As You Wish-"*
 
 ---
 
