@@ -1,6 +1,6 @@
 ## 私わ矢代さんすきじゃないです
 
-### 🚀 Estudante de Desenvolvimento de Sistemas　no SENAI (がくせいです)
+### 🚀 Estudante de Desenvolvimento de Sistemas no SENAI (がくせいです)
 
 Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Desenvolvimento de Sistemas no SENAI**. Estou focado em construir uma base sólida em lógica de programação, arquitetura de sistemas e desenvolvimento de soluções modernas.
 
