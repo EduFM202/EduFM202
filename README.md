@@ -1,5 +1,40 @@
 ## 私わ矢代さんすきじゃないです
 
+### 🚀 Estudante de Desenvolvimento de Sistemas @ SENAI
+
+Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Desenvolvimento de Sistemas no SENAI**. Estou focado em construir uma base sólida em lógica de programação, arquitetura de sistemas e desenvolvimento de soluções modernas.
+
+---
+
+### 🛠️ No que estou trabalhando no momento:
+- 📚 Estudando **Lógica de Programação** e **Estrutura de Dados**.
+- 💻 Desenvolvendo projetos práticos no ambiente do SENAI.
+- 🌐 Explorando o ecossistema de desenvolvimento (Front-end e Back-end).
+
+### ⚙️ Tecnologias e Ferramentas:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,mysql" />
+</p>
+
+> *"A tecnologia move o mundo, mas a curiosidade move o desenvolvedor."*
+
+---
+
+### 📊 Estatísticas do GitHub:
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula" />
+</p>
+
+---
+
+### 📫 Como me encontrar:
+<p align="left">
+<a href="mailto:seu-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+
+---
 <!--
 **EduFM202/EduFM202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
