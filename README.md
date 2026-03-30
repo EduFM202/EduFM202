@@ -17,7 +17,7 @@ Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Des
   <img src="https://skillicons.dev/icons?i=js,html,git,github,vscode" />
 </p>
 
-> *"おこのみで -As You Wish-"*
+> *"-おこのみで -As You Wish-"*
 
 ---
 
