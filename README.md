@@ -1,7 +1,7 @@
 ## 私わ矢代さんすきじゃないです 🌸
 > $\color{red}{\text {それわうそだ}}$
 
-![madeline-celeste](https://github.com/user-attachments/assets/3144a7b0-0637-405a-83e1-1f1697100a4a).
+![madeline-celeste](https://github.com/user-attachments/assets/3144a7b0-0637-405a-83e1-1f1697100a4a)
 
 
 ### 🚀 $\color{pink}{\text {Estudante de Desenvolvimento de Sistemas no SENAI (がくせいです)}}$
@@ -19,7 +19,7 @@ Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Des
 
 ##
 
-### ⚙️ $\color{pink}{\text {Tecnologias e Ferramentas:}}$
+### ⚙️ $\color{red}{\text {Tecnologias e Ferramentas:}}$
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,lua,unity,godot,js,html,github,vscode" />
 </p>
