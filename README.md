@@ -1,5 +1,5 @@
 ## 私わ矢代さんすきじゃないです 🌸
-> *それわうそだ*
+> $\color{pink}{\text {それわうそだ}}$
 
 ![madeline-celeste](https://github.com/user-attachments/assets/3144a7b0-0637-405a-83e1-1f1697100a4a)
 
