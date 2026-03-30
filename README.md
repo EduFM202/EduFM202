@@ -9,7 +9,6 @@ Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Des
 
 ---
 
-
 ### 🛠️ No que estou trabalhando no momento:
 - 📚 Estudando **Lógica de Programação** e **Estrutura de Dados**.
 - 💻 Desenvolvendo projetos práticos no ambiente do SENAI.
@@ -17,7 +16,7 @@ Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Des
 
 ### ⚙️ Tecnologias e Ferramentas:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,lua,unity,godot,js,html,github,vscode" />
 </p>
 
 > *"-おこのみで -As You Wish-"*
