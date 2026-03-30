@@ -14,6 +14,8 @@ Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Des
 - 💻 Desenvolvendo projetos práticos no ambiente do SENAI.
 - 🌐 Explorando o ecossistema de desenvolvimento (Front-end e Back-end).
 
+##
+
 ### ⚙️ Tecnologias e Ferramentas:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,lua,unity,godot,js,html,github,vscode" />
