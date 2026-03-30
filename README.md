@@ -1,7 +1,8 @@
 ## 私わ矢代さんすきじゃないです 🌸
 > $\color{red}{\text {それわうそだ}}$
 
-![madeline-celeste](https://github.com/user-attachments/assets/3144a7b0-0637-405a-83e1-1f1697100a4a)
+![madeline-celeste](https://github.com/user-attachments/assets/3144a7b0-0637-405a-83e1-1f1697100a4a).
+
 
 ### 🚀 $\color{pink}{\text {Estudante de Desenvolvimento de Sistemas no SENAI (がくせいです)}}$
 
@@ -13,6 +14,8 @@ Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Des
 - 📚 Estudando **Lógica de Programação** e **Estrutura de Dados**.
 - 💻 Desenvolvendo projetos práticos no ambiente do SENAI.
 - 🌐 Explorando o ecossistema de desenvolvimento (Front-end e Back-end).
+
+ ![rain-world-scav](https://github.com/user-attachments/assets/ceed7eff-0ccb-488b-99e4-7efbbaa52c5a)
 
 ##
 
