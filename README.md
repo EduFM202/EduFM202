@@ -1,11 +1,14 @@
 ## 私わ矢代さんすきじゃないです 🌸
 > *それわうそだ*
 
+![madeline-celeste](https://github.com/user-attachments/assets/3144a7b0-0637-405a-83e1-1f1697100a4a)
+
 ### 🚀 Estudante de Desenvolvimento de Sistemas no SENAI (がくせいです)
 
 Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Desenvolvimento de Sistemas no SENAI**. Estou focado em construir uma base sólida em lógica de programação, arquitetura de sistemas e desenvolvimento de soluções modernas.
 
 ---
+
 
 ### 🛠️ No que estou trabalhando no momento:
 - 📚 Estudando **Lógica de Programação** e **Estrutura de Dados**.
