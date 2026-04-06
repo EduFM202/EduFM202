@@ -32,7 +32,7 @@ Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Des
 
 ### 📫 $\color{yellow}{\text {Como me encontrar:}}$
 <p align="left">
-<a href="eduardofariasmoreira7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="eduardo.f.moreira6@aluno.senai.br" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/N95c6KmU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href="https://steamcommunity.com/profiles/76561199643746985/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
