@@ -30,7 +30,7 @@ Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Des
 
 ---
 
-### 📫 $\color{yellow}{\text {Como me encontrar:}}$
+### 📫 $\color{yellow}{\text {"Onde me achar :P" :}}$
 <p align="left">
  
 <a href="mailto:eduardofariasmoreira7@gmail.com"> <img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
