@@ -1,4 +1,4 @@
-# Eduardo Farias ⭐
+# Edu ⭐
 $\color{purple}{\text {私わ矢代さんすきじゃないです}}$ 🌸
 > $\color{red}{\text {それわうそだ}}$
 
