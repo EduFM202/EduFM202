@@ -42,3 +42,9 @@ Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Des
 
 ![v1-ultrakill](https://github.com/user-attachments/assets/6f1fb381-d142-49d7-8919-7208ae688259)
 
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&descAlignY=51&stroke=FA5837&reversal=true"/>
+
+
+</div>
