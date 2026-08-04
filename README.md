@@ -22,15 +22,16 @@ Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Des
 ##
 
 ### ⚙️ $\color{red}{\text {Tecnologias e Ferramentas:}}$
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,lua,unity,godot,js,html,github,vscode" />
 </p>
 
 > *"-おこのみで -As You Wish-"*
 
 ---
+Songs i love:
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rfkyv6tecuhny4scnghpban2cq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ff00ff&bar_color_cover=false">
   </a>
