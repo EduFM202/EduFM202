@@ -2,7 +2,6 @@
 $\color{purple}{\text {私わ矢代さんすきじゃないです}}$ 🌸
 > $\color{red}{\text {それわうそだ}}$
 
-
 ![madeline-celeste](https://github.com/user-attachments/assets/3144a7b0-0637-405a-83e1-1f1697100a4a)
 
 
@@ -29,6 +28,8 @@ Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Des
 > *"-おこのみで -As You Wish-"*
 
 ---
+
+
 Songs i love:
 
 <p align="left">
@@ -36,6 +37,8 @@ Songs i love:
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rfkyv6tecuhny4scnghpban2cq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ff00ff&bar_color_cover=false">
   </a>
 </p>
+
+
 
 ### 📫 $\color{yellow}{\text {Onde me achar :P}}$
 <p align="left">
@@ -52,6 +55,5 @@ Songs i love:
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&descAlignY=51&stroke=FA5837&reversal=true"/>
-
 
 </div>
