@@ -30,7 +30,7 @@ Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Des
 ---
 
 
-Songs i love:
+Motivational music for my projects:
 
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
