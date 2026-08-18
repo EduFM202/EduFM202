@@ -21,12 +21,12 @@ Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Des
 ##
 
 ### ⚙️ $\color{red}{\text {Softwares:}}$
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=unity,godot,github,vscode,blender,mysql" />
 </p>
 
-### ⚙️ $\color{red}{\text {Linguagens de programação:}}$
-<p align="center">
+### 🖥️ $\color{red}{\text {Linguagens de programação:}}$
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,cs,lua,js,css,html" />
 </p>
 
