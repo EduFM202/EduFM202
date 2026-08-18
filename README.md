@@ -20,9 +20,14 @@ Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Des
 
 ##
 
-### ⚙️ $\color{red}{\text {Tecnologias e Ferramentas:}}$
+### ⚙️ $\color{red}{\text {Softwares:}}$
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,lua,unity,godot,js,html,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=unity,godot,github,vscode,blender,mysql" />
+</p>
+
+### ⚙️ $\color{red}{\text {Linguagens de programação:}}$
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,lua,js,css,html" />
 </p>
 
 > *"-おこのみで -As You Wish-"*
