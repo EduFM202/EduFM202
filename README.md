@@ -37,11 +37,7 @@ Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Des
 
 Motivational music for my projects:
 
-<p align="left">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rfkyv6tecuhny4scnghpban2cq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ff00ff&bar_color_cover=false">
-  </a>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rfkyv6tecuhny4scnghpban2cq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ff0000&interchange=true&profanity=false&hide_remaster=false&bar_color=ff00ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
